@@ -49,7 +49,7 @@ int main()
 	while (quit !=	'q')
 	{
 		
-		cout<<"Please enter the coordiantes in which to place the Rook.heyy u faggg"<<endl;
+		cout<<"Please enter the coordiantes in which to place the Rook."<<endl;
 		cout<<"(0-7) x = "; cin>>starting_x;
 		cout<<"(0-7) y = "; cin>>starting_y;
 		cout<<"To quit enter q, otherwise enter n: ";
