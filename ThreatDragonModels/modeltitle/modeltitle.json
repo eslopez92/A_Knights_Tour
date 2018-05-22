@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "modeltitle",
+    "owner": "emilio",
+    "description": "some stuff"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "thetitle",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "shaine"
+  }
+}
